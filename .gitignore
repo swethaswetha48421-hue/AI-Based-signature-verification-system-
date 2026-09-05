@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.h5
+*.pkl
+venv/
+dataset/
+database/*.db
+reports/*.pdf
+*.log
+.DS_Store
